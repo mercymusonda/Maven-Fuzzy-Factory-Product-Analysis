@@ -1,5 +1,5 @@
 
--- To analyse the annual financial performance of Marven Fuzzy Factory across all available years
+-- To analyse the annual financial performance of Maven Fuzzy Factory across all available years
 -- To track the growth and decline of revenue, costs and profit over time
 -- To calculate profit margin percentage and assess pricing and cost efficiency year on year
 

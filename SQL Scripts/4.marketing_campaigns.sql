@@ -1,5 +1,5 @@
 
--- To identify which traffic sources and marketing campaigns are driving the most sessions and orders to the Marven Fuzzy Factory website
+-- To identify which traffic sources and marketing campaigns are driving the most sessions and orders to the Maven Fuzzy Factory website
 -- To measure the conversion rate of each campaign and determine which channels are most effective at turning visitors into buyers
 -- To highlight underperforming campaigns with low conversion rates that may require review or reallocation of marketing budget
 

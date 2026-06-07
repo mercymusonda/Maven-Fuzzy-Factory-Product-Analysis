@@ -1,4 +1,4 @@
--- To map the complete customer purchase journey across all stages of the Marven Fuzzy Factory website funnel
+-- To map the complete customer purchase journey across all stages of the Maven Fuzzy Factory website funnel
 -- To measure how many sessions progress through each stage from entry point to completed purchase
 -- To identify which stage experiences the highest drop off and represents the biggest opportunity for improvement
 

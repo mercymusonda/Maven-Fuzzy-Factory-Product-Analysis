@@ -1,5 +1,5 @@
 
--- To evaluate the performance of each individual product within the Marven's catalogue
+-- To evaluate the performance of each individual product within the Maven's catalogue
 -- To compare revenue, cost and profit across all products and identify the strongest and weakest performers
 -- To calculate profit margin percentage per product and assess which products are most efficient and profitable
 

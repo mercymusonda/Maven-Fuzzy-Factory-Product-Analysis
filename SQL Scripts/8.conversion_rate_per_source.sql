@@ -1,4 +1,4 @@
--- To measure the conversion rate of each individual traffic source driving visitors to the Marven Fuzzy Factory website
+-- To measure the conversion rate of each individual traffic source driving visitors to the Maven Fuzzy Factory website
 -- To identify which traffic sources are most effective at converting sessions into actual purchases
 -- To inform marketing budget allocation by highlighting high and low performing traffic sources
 

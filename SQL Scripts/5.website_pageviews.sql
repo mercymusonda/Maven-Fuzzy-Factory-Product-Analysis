@@ -1,5 +1,5 @@
 
--- To identify the most visited pages on the Marven Fuzz Factory website
+-- To identify the most visited pages on the Maven Fuzzy Factory website
 -- and understand customer navigation behaviour and drop off points
 
 

@@ -1,14 +1,14 @@
-# 🧸 Marven Fuzzy Factory — Product & Performance Analysis
+# 🧸 Maven Fuzzy Factory — Product & Performance Analysis
 
 
 
 ## 📌 Project Overview
 
-This project analyses the Marven Fuzzy Factory e-commerce dataset to uncover the key drivers behind the company's revenue growth and decline between 2012 and 2015. The analysis was approached from a **product analyst perspective**, focusing not just on the numbers, but on *what the numbers mean* for the business.
+This project analyses the Maven Fuzzy Factory e-commerce dataset to uncover the key drivers behind the company's revenue growth and decline between 2012 and 2015. The analysis was approached from a **product analyst perspective**, focusing not just on the numbers, but on *what the numbers mean* for the business.
 
 The final deliverable is a two-page interactive Power BI dashboard designed for executive and board-level stakeholders.
 
-📥 **[Download Power BI Dashboard File](Mavern_Ecommerce_Dashboard.pbix)**
+📥 **[Download Power BI Dashboard File](Maven_Ecommerce_Dashboard.pbix)**
 
 
 
@@ -51,7 +51,7 @@ The final deliverable is a two-page interactive Power BI dashboard designed for 
 
 ## 🗂️ Dataset and Schema
 
-The dataset is sourced from the **Maven Analytics** learning platform. It represents a fictional e-commerce toy brand `Marvyn Fuzzy Factory` and contains transactional, product and web session data.
+The dataset is sourced from the **Maven Analytics** learning platform. It represents a fictional e-commerce toy brand `Maven Fuzzy Factory` and contains transactional, product and web session data.
 
 ### Tables
 
@@ -81,7 +81,7 @@ website_sessions ──► orders ──► order_items ──► order_item_ref
 ### 1. Annual Financial Performance
 
 ```sql
--- To analyse the annual financial performance of Marven Fuzzy Factory across all available years
+-- To analyse the annual financial performance of Maven Fuzzy Factory across all available years
 -- To track the growth and decline of revenue, costs and profit over time
 -- To calculate profit margin percentage and assess pricing and cost efficiency year on year
 
@@ -103,7 +103,7 @@ ORDER BY year;
 ### 2. Product Performance
 
 ```sql
--- To evaluate the performance of each individual product within the Marven's catalogue
+-- To evaluate the performance of each individual product within the Maven's catalogue
 -- To compare revenue, cost and profit across all products and identify the strongest and weakest performers
 -- To calculate profit margin percentage per product and assess which products are most efficient and profitable
 
@@ -148,7 +148,7 @@ ORDER BY refund_year, total_refunds DESC;
 ### 4. Traffic Source Conversion Rate
 
 ```sql
--- To identify which traffic sources and marketing campaigns are driving the most sessions and orders to the Marven Fuzzy Factory website
+-- To identify which traffic sources and marketing campaigns are driving the most sessions and orders to the Maven Fuzzy Factory website
 -- To measure the conversion rate of each campaign and determine which channels are most effective at turning visitors into buyers
 -- To highlight underperforming campaigns with low conversion rates that may require review or reallocation of marketing budget
 
@@ -211,7 +211,7 @@ ORDER BY month, total_sessions DESC;
 ### 7. Website Page Views
 
 ```sql
--- To identify the most visited pages on the Marven Fuzz Factory website
+-- To identify the most visited pages on the Maven Fuzzy Factory website
 -- and understand customer navigation behaviour and drop off points
 
 
@@ -231,7 +231,7 @@ ORDER BY
 ### 8. Customer Purchase Journey Funnel
 
 ```sql
--- To map the complete customer purchase journey across all stages of the Marven Fuzzy Factory website funnel
+-- To map the complete customer purchase journey across all stages of the Maven Fuzzy Factory website funnel
 -- To measure how many sessions progress through each stage from entry point to completed purchase
 -- To identify which stage experiences the highest drop off and represents the biggest opportunity for improvement
 
@@ -343,7 +343,7 @@ date_table = ADDCOLUMNS(
 
 ![Annual Revenue](images/annual_revenue%20(2).png)
 
-An analysis of Marven Fuzzy Factory's annual performance was conducted using data available from 2012 to 2015. Note that the dataset begins in 2012 and does not reflect the company's full history and all conclusions are limited to this period.
+An analysis of Maven Fuzzy Factory's annual performance was conducted using data available from 2012 to 2015. Note that the dataset begins in 2012 and does not reflect the company's full history and all conclusions are limited to this period.
 
 | Year | Total Orders | Total Revenue | Total Cost | Total Profit | Profit Margin |
 |------|-------------|---------------|------------|--------------|---------------|
@@ -380,7 +380,7 @@ Mr. Fuzzy recorded the highest refund count by a significant margin, with a gap 
 
 A concentrated spike of **213 refunds was recorded in September 2014.** Although refunds declined after that point, the damage to customer confidence had already occurred — resulting in the sharp order volume drop seen in 2015.
 
- *"As the brand's namesake product, Mr. Fuzzy carries significant reputational weight for Marven Fuzzy Factory. The September 2014 refund spike therefore not only impacted revenue but potentially damaged the core brand identity, making the recovery of Mr. Fuzzy's quality and customer satisfaction a strategic priority."*
+ *"As the brand's namesake product, Mr. Fuzzy carries significant reputational weight for Maven Fuzzy Factory. The September 2014 refund spike therefore not only impacted revenue but potentially damaged the core brand identity, making the recovery of Mr. Fuzzy's quality and customer satisfaction a strategic priority."*
 
 ---
 
@@ -450,9 +450,10 @@ Monthly sessions by traffic source, conversion by device, conversion rate by sou
 
 ## 👤 Author
 
-**[Your Name]**
+**Mercy Musonda**
 Aspiring Data / Product Analyst
+
 📧 mmusonda395@gmail.com
 
 
-> *This project was completed as part of my data analytics portfolio using the Maven Analytics Marvyn Fuzzy Factory dataset.*
+> *This project was completed as part of my data analytics portfolio using the Maven Analytics Maven Fuzzy Factory dataset.*
