@@ -8,7 +8,11 @@ This project analyses the Marven Fuzzy Factory e-commerce dataset to uncover the
 
 The final deliverable is a two-page interactive Power BI dashboard designed for executive and board-level stakeholders.
 
-📥 **[Download Power BI Dashboard File](Mavern_Ecommerce_Dashboard.pbix)**
+📥 **[Download Power BI Dashboard File](https://github.com/mercymusonda/Marven-Fuzzy-Factory-Product-Analysis/blob/main/Marven_Ecommerce_Dashboard.pbix)**
+
+
+
+**HOW TO USE:** Download `Power BI Desktop` and open the file to interact with the Dashboards.
 
 
 
