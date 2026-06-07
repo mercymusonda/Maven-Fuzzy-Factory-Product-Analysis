@@ -1,4 +1,4 @@
-# 🧸 Marven Fuzzy Factory — Product & Performance Analysis
+# 🧸 Marven Fuzzy Factory — Product and Performance Analysis
 
 
 
