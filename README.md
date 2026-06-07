@@ -1,4 +1,4 @@
-# 🧸 Maven Fuzzy Factory — Product & Performance Analysis
+# 🧸 Maven Fuzzy Factory — Product and Performance Analysis
 
 
 
@@ -8,7 +8,9 @@ This project analyses the Maven Fuzzy Factory e-commerce dataset to uncover the 
 
 The final deliverable is a two-page interactive Power BI dashboard designed for executive and board-level stakeholders.
 
-📥 **[Download Power BI Dashboard File](Maven_Ecommerce_Dashboard.pbix)**
+📥 **[Download Power BI Dashboard File](https://github.com/mercymusonda/Maven-Fuzzy-Factory-Product-Analysis/blob/main/Maven_Ecommerce_Dashboard.pbix)**
+
+**How to Use:** Download `Power BI Desktop` to interact with the dashboards
 
 
 
@@ -433,7 +435,7 @@ Monthly sessions by traffic source, conversion by device, conversion rate by sou
 ### Page 2 — Traffic and Customer Source
 ![Traffic and Customer Source](images/page_2.png) 
 
-> 📸 *Screenshots of the dashboard are included in the `/images` folder of this repository.*
+> 📸 *Screenshots of the dashboard are included in the `images/` folder of this repository.*
 
 
 
